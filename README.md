@@ -35,7 +35,7 @@ Wilfrid Laurier University *May 2009*
 - Mobility expectations and resilience both predicted life satisfaction. When resilience was accounted for, mobility expectations were still predictive of life satisfaction
 - Immediately after COVID-19, higher mobility expectations predicted lower life satisfaction.
 
-![Portfolio](/assets/Main.png)
+![Portfolio](/Assets/Main.png)
 
 ### Do People Hold More Prejudice Towards Bisexual Singles?
 
