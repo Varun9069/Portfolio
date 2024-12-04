@@ -25,9 +25,9 @@ Wilfrid Laurier University *May 2009*
 
 ### Approach
 
-- I used data from ICPSR's 2022 U.S. National Well-Being Survey, which was collected via telephone between May 10 - September 5, 2022. 
-- Analysis was based on responses from 5,666 adults aged 18-64.  
-- To investigate the relationship, mobility expectations, resilience and life satisfaction were used in the multiple regression model. Sex differences were separately considered for mobility expectations and resilience. 
+- Open source data from ICPSR's 2022 U.S. National Well-Being Survey. 
+- Analysis based on responses collected via telephone between May 10 - September 5, 2022, from 5,666 adults (ages 18-64).   
+- To investigate the relationship, *mobility expectations*, *resilience* and *life satisfaction* were used in the multiple regression model. Sex differences were separately considered for mobility expectations and resilience. 
 
 
 ### Results
