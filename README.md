@@ -17,7 +17,7 @@ Wilfrid Laurier University *May 2009*
 
 
 ## Current Project
-### Did Expectations of Upward Social Mobility Post-COVID Predict Higher Life Satisfaction?
+### Do Expectations of Upward Social Mobility Post-COVID Predict Higher Life Satisfaction?
 
 - In times of socio-economic and healtlh system stability, expectations of climbing the social ladder have been linked to greater life satisfaction.
 - However, it is unclear whether this relationship is maintained after a significant global crises that creates system instability. 
@@ -25,16 +25,15 @@ Wilfrid Laurier University *May 2009*
 
 ### Approach
 
-- I used data from ICPSR's 2022 U.S. National Well-Being Survey, which was collected via telephone between May 10, 2022 and September 5, 2022. 
+- I used data from ICPSR's 2022 U.S. National Well-Being Survey, which was collected via telephone between May 10 - September 5, 2022. 
 - Analysis was based on responses from 5,666 adults aged 18-64.  
 - To investigate the relationship, mobility expectations, resilience and life satisfaction were used in the multiple regression model. Sex differences were separately considered for mobility expectations and resilience. 
 
 
 ### Results
 
-- We examined how Asian Americans feel after experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members)
-- Results showed that Asian Americans who were rejected by Asian peers felt less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
-- Expectation and prejudice attribution are not related to this difference
+- Mobility expectations and resilience both predicted life satisfaction. When resilience was accounted for, mobility expectations were still predictive of life satisfaction
+- Immediately after COVID-19, higher mobility expectations predicted lower life satisfaction.
 
 ![Portfolio](/assets/Main.png)
 
