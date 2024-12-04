@@ -1,58 +1,33 @@
 
-# Varun Tripathi
-Psychology specialist @ University of Toronto
 
-## Research Interests
-- Childhood Adversity 
-- Emotion Regulation
-- Maladaptive Coping
-- Mental Health 
-- Protective Factors 
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+-->
 
-## Education
-**BSc.** || University of Toronto *May 2025 (Expected)*
+## Step 2: Configure your site
 
-**Honors BBA**  || 
-Wilfrid Laurier University *May 2009*			        		
+_You turned on GitHub Pages! :tada:_
 
+We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
-## Current Project
-### Do Expectations of Upward Social Mobility Post-COVID Predict Higher Life Satisfaction?
+Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-- In times of socio-economic and healtlh system stability, expectations of climbing the social ladder have been linked to greater life satisfaction.
-- However, it is unclear whether this relationship is maintained after a significant global crises that creates system instability. 
-- Using data collected immediately after COVID-19, I investigated the relationship between social mobility expectations and life satisfaction while taking resilience into account by using multiple regression. Sex differences were also considered.     
+We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
-### Approach
+### :keyboard: Activity: Configure your site
 
-- Open source data from ICPSR's 2022 U.S. National Well-Being Survey. 
-- Analysis based on responses collected via telephone between May 10 - September 5, 2022, from 5,666 adults (ages 18-64).   
-- To investigate the relationship, *mobility expectations*, *resilience* and *life satisfaction* were used in the multiple regression model. Sex differences were separately considered for mobility expectations and resilience. 
-
-
-### Results
-
-- Mobility expectations and resilience both predicted life satisfaction. When resilience was accounted for, mobility expectations were still predictive of life satisfaction
-- Immediately after COVID-19, higher mobility expectations predicted lower life satisfaction.
-
-![Portfolio](/Assets/Mobility.png)
-
-### Do People Hold More Prejudice Towards Bisexual Singles?
-
-- We asked people to rate single people with different sexual orientation backgrounds and found that people's assumptions about bisexual single people are more negative than gay/lesbian single people 
-- This prejudice primarily comes from non-single people 
-- The belief that bisexual people have more choices of potential dating partners partially explains the rating
-
-![Bi](/assets/img/bisingle.png)
+1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+   ```yml
+   theme: minima
+   ```
+1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. Commit your changes.
+1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 
-## Publications
-1.	**Li, K. C.**, van Berlekom, E., Atwood, S., & Wang, Y.-C. (2024). Towards inclusive and equitable LGBTIQ+ measurement: Assessing gender and sexual orientation measures and scale validity in national surveys across 21 countries. *Journal of Social Issues*, 1-27. https://doi.org/10.1111/josi.12635 
-
-2.	**Li, K. C.**, Cipollina, R., & Sanchez, D. T. (2023). Perceived COVID-induced racism and contextual predictors of fear and psychological distress among Black men. *Social and Personality Psychology Compass*, e12857. https://doi.org/10.1111/spc3.12857
-
-## Teaching
-- Social Psychology Lab
-- Experimental Research & Statistics
-- Correlational Research & Statistics
-- Intergroup Relations
