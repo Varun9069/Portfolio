@@ -36,7 +36,7 @@ Wilfrid Laurier University *May 2009*
 - Results showed that Asian Americans who were rejected by Asian peers felt less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
 - Expectation and prejudice attribution are not related to this difference
 
-![Ingroup](/assets/Main.png)
+![Portfolio](/assets/Main.png)
 
 ### Do People Hold More Prejudice Towards Bisexual Singles?
 
